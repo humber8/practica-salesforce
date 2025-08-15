@@ -1,38 +1,18 @@
-# Practica Salesforce
-cambios en la branch
+# Salesforce DX Project: Next Steps
 
-Este repositorio contiene una sandbox de práctica para Salesforce. Aquí podrás experimentar, aprender y probar funcionalidades de Salesforce en un entorno controlado.
+Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
-## Características
+## How Do You Plan to Deploy Your Changes?
 
-- Ejercicios prácticos de Salesforce
-- Ejemplos de código Apex y Lightning
-- Pruebas de automatización y flujos
-- Documentación y recursos útiles
+Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
-## Requisitos
+## Configure Your Salesforce DX Project
 
-- Cuenta de Salesforce Developer
-- Acceso a una sandbox de Salesforce
+The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
 
-## Uso
+## Read All About It
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/practica-salesforce.git
-   ```
-2. Sigue las instrucciones de los archivos de ejemplo para comenzar a practicar.
-
-## Contribuciones
-
-Si deseas aportar mejoras o nuevos ejercicios, por favor realiza un fork y envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
-
----
-
-Cambios recientes:
-- Actualización de documentación
-- Ejemplos
+- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
+- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
+- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
+- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)

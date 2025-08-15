@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "practica-salesforce",
+  "namespace": "",
+  "sfdcLoginUrl": "https://creative-hawk-j9esh9-dev-ed.trailblaze.lightning.force.com",
+  "sourceApiVersion": "64.0"
+}
