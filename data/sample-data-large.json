@@ -1,0 +1,904 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef1"
+      },
+      "Name": "Cuenta Masiva de Prueba 1",
+      "Phone": "+1000000001",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef1_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 1",
+            "Email": "contacto.a.1@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef1_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 1",
+            "Email": "contacto.b.1@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef1"
+            },
+            "Name": "Oportunidad de Cuenta 1",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 105754
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef2"
+      },
+      "Name": "Cuenta Masiva de Prueba 2",
+      "Phone": "+1000000002",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef2_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 2",
+            "Email": "contacto.a.2@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef2_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 2",
+            "Email": "contacto.b.2@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef2"
+            },
+            "Name": "Oportunidad de Cuenta 2",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 52231
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef3"
+      },
+      "Name": "Cuenta Masiva de Prueba 3",
+      "Phone": "+1000000003",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef3_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 3",
+            "Email": "contacto.a.3@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef3_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 3",
+            "Email": "contacto.b.3@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef3"
+            },
+            "Name": "Oportunidad de Cuenta 3",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 87019
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef4"
+      },
+      "Name": "Cuenta Masiva de Prueba 4",
+      "Phone": "+1000000004",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef4_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 4",
+            "Email": "contacto.a.4@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef4_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 4",
+            "Email": "contacto.b.4@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef4"
+            },
+            "Name": "Oportunidad de Cuenta 4",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 69036
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef5"
+      },
+      "Name": "Cuenta Masiva de Prueba 5",
+      "Phone": "+1000000005",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef5_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 5",
+            "Email": "contacto.a.5@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef5_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 5",
+            "Email": "contacto.b.5@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef5"
+            },
+            "Name": "Oportunidad de Cuenta 5",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 96860
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef6"
+      },
+      "Name": "Cuenta Masiva de Prueba 6",
+      "Phone": "+1000000006",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef6_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 6",
+            "Email": "contacto.a.6@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef6_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 6",
+            "Email": "contacto.b.6@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef6"
+            },
+            "Name": "Oportunidad de Cuenta 6",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 72335
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef7"
+      },
+      "Name": "Cuenta Masiva de Prueba 7",
+      "Phone": "+1000000007",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef7_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 7",
+            "Email": "contacto.a.7@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef7_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 7",
+            "Email": "contacto.b.7@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef7"
+            },
+            "Name": "Oportunidad de Cuenta 7",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 49215
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef8"
+      },
+      "Name": "Cuenta Masiva de Prueba 8",
+      "Phone": "+1000000008",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef8_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 8",
+            "Email": "contacto.a.8@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef8_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 8",
+            "Email": "contacto.b.8@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef8"
+            },
+            "Name": "Oportunidad de Cuenta 8",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 42058
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef9"
+      },
+      "Name": "Cuenta Masiva de Prueba 9",
+      "Phone": "+1000000009",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef9_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 9",
+            "Email": "contacto.a.9@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef9_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 9",
+            "Email": "contacto.b.9@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef9"
+            },
+            "Name": "Oportunidad de Cuenta 9",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 101934
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef10"
+      },
+      "Name": "Cuenta Masiva de Prueba 10",
+      "Phone": "+1000000010",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef10_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 10",
+            "Email": "contacto.a.10@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef10_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 10",
+            "Email": "contacto.b.10@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef10"
+            },
+            "Name": "Oportunidad de Cuenta 10",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 34566
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef11"
+      },
+      "Name": "Cuenta Masiva de Prueba 11",
+      "Phone": "+1000000011",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef11_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 11",
+            "Email": "contacto.a.11@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef11_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 11",
+            "Email": "contacto.b.11@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef11"
+            },
+            "Name": "Oportunidad de Cuenta 11",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 97537
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef12"
+      },
+      "Name": "Cuenta Masiva de Prueba 12",
+      "Phone": "+1000000012",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef12_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 12",
+            "Email": "contacto.a.12@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef12_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 12",
+            "Email": "contacto.b.12@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef12"
+            },
+            "Name": "Oportunidad de Cuenta 12",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 10946
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef13"
+      },
+      "Name": "Cuenta Masiva de Prueba 13",
+      "Phone": "+1000000013",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef13_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 13",
+            "Email": "contacto.a.13@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef13_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 13",
+            "Email": "contacto.b.13@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef13"
+            },
+            "Name": "Oportunidad de Cuenta 13",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 81546
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef14"
+      },
+      "Name": "Cuenta Masiva de Prueba 14",
+      "Phone": "+1000000014",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef14_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 14",
+            "Email": "contacto.a.14@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef14_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 14",
+            "Email": "contacto.b.14@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef14"
+            },
+            "Name": "Oportunidad de Cuenta 14",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 58857
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef15"
+      },
+      "Name": "Cuenta Masiva de Prueba 15",
+      "Phone": "+1000000015",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef15_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 15",
+            "Email": "contacto.a.15@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef15_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 15",
+            "Email": "contacto.b.15@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef15"
+            },
+            "Name": "Oportunidad de Cuenta 15",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 71726
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef16"
+      },
+      "Name": "Cuenta Masiva de Prueba 16",
+      "Phone": "+1000000016",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef16_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 16",
+            "Email": "contacto.a.16@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef16_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 16",
+            "Email": "contacto.b.16@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef16"
+            },
+            "Name": "Oportunidad de Cuenta 16",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 11140
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef17"
+      },
+      "Name": "Cuenta Masiva de Prueba 17",
+      "Phone": "+1000000017",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef17_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 17",
+            "Email": "contacto.a.17@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef17_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 17",
+            "Email": "contacto.b.17@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef17"
+            },
+            "Name": "Oportunidad de Cuenta 17",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 37909
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef18"
+      },
+      "Name": "Cuenta Masiva de Prueba 18",
+      "Phone": "+1000000018",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef18_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 18",
+            "Email": "contacto.a.18@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef18_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 18",
+            "Email": "contacto.b.18@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef18"
+            },
+            "Name": "Oportunidad de Cuenta 18",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 24947
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef19"
+      },
+      "Name": "Cuenta Masiva de Prueba 19",
+      "Phone": "+1000000019",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef19_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 19",
+            "Email": "contacto.a.19@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef19_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 19",
+            "Email": "contacto.b.19@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef19"
+            },
+            "Name": "Oportunidad de Cuenta 19",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 92871
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef20"
+      },
+      "Name": "Cuenta Masiva de Prueba 20",
+      "Phone": "+1000000020",
+      "Fecha_de_ingreso_gerencia__c": "2024-05-01",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef20_A"
+            },
+            "FirstName": "Contacto A",
+            "LastName": "Asociado a Cuenta 20",
+            "Email": "contacto.a.20@ejemplo.com"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef20_B"
+            },
+            "FirstName": "Contacto B",
+            "LastName": "Asociado a Cuenta 20",
+            "Email": "contacto.b.20@ejemplo.com"
+          }
+        ]
+      },
+      "Opportunities": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Opportunity",
+              "referenceId": "OppRef20"
+            },
+            "Name": "Oportunidad de Cuenta 20",
+            "StageName": "Prospecting",
+            "CloseDate": "2024-12-31",
+            "Amount": 22259
+          }
+        ]
+      }
+    }
+  ]
+}

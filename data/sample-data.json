@@ -1,0 +1,61 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef1"
+      },
+      "Name": "Empresa Tecnología Global",
+      "Phone": "+1234567890",
+      "Website": "www.tecnologiaglobal.com",
+      "Fecha_de_ingreso_gerencia__c": "2024-01-15",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef1"
+            },
+            "FirstName": "Ana",
+            "LastName": "García",
+            "Email": "ana.garcia@tecnologiaglobal.com",
+            "Title": "CTO"
+          },
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef2"
+            },
+            "FirstName": "Carlos",
+            "LastName": "López",
+            "Email": "carlos.lopez@tecnologiaglobal.com",
+            "Title": "Gerente de Proyectos"
+          }
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "AccountRef2"
+      },
+      "Name": "Logística Internacional S.A.",
+      "Phone": "+0987654321",
+      "Fecha_de_ingreso_gerencia__c": "2023-11-20",
+      "Contacts": {
+        "records": [
+          {
+            "attributes": {
+              "type": "Contact",
+              "referenceId": "ContactRef3"
+            },
+            "FirstName": "María",
+            "LastName": "Fernández",
+            "Email": "maria.fernandez@logistica-int.com",
+            "Title": "Directora de Operaciones"
+          }
+        ]
+      }
+    }
+  ]
+}
